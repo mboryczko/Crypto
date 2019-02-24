@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MichałBoryczko</string>
+    <string name="pairDescriptionTextView">Market</string>
+    <string name="lastPriceDescriptionTextView">Last Price</string>
+    <string name="volumeDescriptionTextView">Volume</string>
+    <string name="timeDescriptionTextView">Last updated: </string>
+    <string name="lowestPriceDescriptionTextView">Lowest price: </string>
+    <string name="highestPriceDescriptionTextView">Highest price: </string>
+    <string name="noInternetConnectionError">No internet connection.\n Click to retry.</string>
+    <string name="unknownError">Error occurred.\n Please retry.</string>
+</resources>

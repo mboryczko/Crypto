@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "981243891326",
+    "firebase_url": "https://textrecognizer-b706f.firebaseio.com",
+    "project_id": "textrecognizer-b706f",
+    "storage_bucket": "textrecognizer-b706f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981243891326:android:d9315748c50eae93",
+        "android_client_info": {
+          "package_name": "pl.michalboryczko.exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981243891326-4ctiq9gjs5i55119dt9uq3rc5j56dd3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9EkMIByvFXvyku0OMqz1ukI8IpdyxPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
